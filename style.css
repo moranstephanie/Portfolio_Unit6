@@ -4,11 +4,14 @@
       background-size: cover;
       color: white;
     }
+    
     .nav {
       color: white;
     }
     h1 {
       font-size: 70px;
+      color:red;
+      font-weight: bold;
     }
     img {
       margin: 40px 0px 0px 0px;
