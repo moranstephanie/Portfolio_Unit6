@@ -13,11 +13,11 @@
       color:red;
       font-weight: bold;
     }
-    img {
-      margin: 40px 0px 0px 0px;
-      border: 7px solid white;
-      border-radius: 20px;
-    }
+   .profile{
+     height:30px;
+     width:50px;
+   }
+    
     ul {
       padding: 10px;
       background: rgba(0,0,0,0.5);
@@ -40,4 +40,9 @@
         padding: 5px;
         display: block;
       }
+      #carl{
+        height: 50px;
+        width: 50px;
+      }
+      
     }
